@@ -1,18 +1,18 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World! 🌎</h1></summary>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF">
 
-<!-- Presentation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=40E0D0&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Gustavo;Sou+um+Desenvolvedor+de+Software;Bem+vindo!)](https://git.io/typing-svg)
+
+<br>
+<br>
+
 <p>
   Olá 👋, Eu sou Gustavo! Um apaixonado estudante de Programação do Brasil.
 
   - 🌱 Atualmente estou estudando Desenvolvimento Full-Stack no curso de formação **DevClub**.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como progrmador Front-end ou Back-end.
+  - 🔭 Em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como progrmador Front-end ou Back-end.
 </p>
 
-<!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
@@ -21,57 +21,89 @@
   - ⚡ Gosto de ler, além de assistir séries e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
-<h2 align="center">Meus status Github 📊</h2>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuHenriqueSantos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="auto" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuHenriqueSantos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="auto" height="180" alt="languages graph"  />
+  
+   <img width="100%" height="350px" src="https://github-readme-streak-stats.herokuapp.com?user=GuHenriqueSantos&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=00FFFF&fire=008B8B&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&)](https://git.io/streak-stats&dates=20B2AA">
+  
+</div>
+
+<br>
+<br>
+
+<div align="center"> 
+<a href="malito:gustavohsantoscontato@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<img width="8">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+</div>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan) 
+
 </div>
 
 <br clear="both">
 <br clear="both">
 <br clear="both">
 
+### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
-<h2 align="center">Tecnologias ⚛</h2>
+<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo"  />
+  
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Contador de visitas</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=GuHenriqueSantos&s=40&c=7fffd4&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=" /></p> 
+<br>
 </div>
 
 <br clear="both">
-<br clear="both">
-<br clear="both">
 
- <div align="center" style="flex-basis: 48%;">
-    <h2>Ferramentas ⚒</h2>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img width="6" />
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img width="6" />
-    <img align="center" alt="Notion" height="30" width="90" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img width="6" />
-  </div>
+<div align="center">
+<h3> Entre em contato comigo </h3>
+<a href="https://wa.me/5511916910973?text=Ol%C3%A1!" target="_blank">
+<img align="center" height="30" src="https://img.shields.io/badge/Whatsapp-25D366?logo=whatsapp&logoColor=white">
+</a>
+</div>
+
 
 <br clear="both">
 <br clear="both">
-
-### Contate me 📱
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDSAW%2BmARTqSDvfA33aoYvQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malito:gustavohsantoscontato@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511916910973?text=Ol%C3%A1!)
-
 <br clear="both">
 
-<img align="center" height="auto" width="100%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22eyd6nmr5vv66x27cbrlqela) <img align="right" height="auto" width="53%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF&section=footer">
