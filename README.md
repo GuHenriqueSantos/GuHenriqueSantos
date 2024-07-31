@@ -1,11 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF">
 
 <br clear="both">
-<br clear="both">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=40E0D0&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Gustavo;Sou+um+Desenvolvedor+de+Software;Bem+vindo!)](https://git.io/typing-svg)
 
-<br clear="both">
 <br clear="both">
 <br clear="both">
 
@@ -26,7 +24,6 @@
 </details>
 
 <br clear="both">
-<br clear="both">
 
 <div align="center">
   
@@ -35,14 +32,12 @@
 </div>
 
 <br clear="both">
-<br clear="both">
 
 <div align="center"> 
 <a href="mailto:gustavohsantoscontato@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 <img width="8">
 </a>
-
 
 <a  href="https://www.linkedin.com/in/gustavo-santos-681b3825b?lipi=urn%3Ali%3Apage%3Ad" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
@@ -56,8 +51,6 @@
 
 </div>
 
-<br clear="both">
-<br clear="both">
 <br clear="both">
 
 ### Tecnologias:
@@ -81,14 +74,9 @@
 <br clear="both">
 <br clear="both">
 <br clear="both">
-
+<br clear="both">
 
 <div align="center">
-  
-<br>
-<br>
-<br>
-
 <p align="centre"><b>Contador de visitas</b></p> 
   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=GuHenriqueSantos&s=40&c=7fffd4&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=" /></p> 
