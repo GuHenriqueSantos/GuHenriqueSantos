@@ -1,9 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF">
 
+<br clear="both">
+<br clear="both">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=40E0D0&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Gustavo;Sou+um+Desenvolvedor+de+Software;Bem+vindo!)](https://git.io/typing-svg)
 
-<br>
-<br>
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 <p>
   Olá 👋, Eu sou Gustavo! Um apaixonado estudante de Programação do Brasil.
@@ -21,7 +25,8 @@
   - ⚡ Gosto de ler, além de assistir séries e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
-<br>
+<br clear="both">
+<br clear="both">
 
 <div align="center">
   
@@ -29,8 +34,8 @@
   
 </div>
 
-<br>
-<br>
+<br clear="both">
+<br clear="both">
 
 <div align="center"> 
 <a href="mailto:gustavohsantoscontato@gmail.com">
@@ -55,7 +60,7 @@
 <br clear="both">
 <br clear="both">
 
-### Main skills:
+### Tecnologias:
 <div align="left"> 
 <img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
 
@@ -71,11 +76,11 @@
 
 </div>
 
-<br>
-<br> 
-<br>
-<br>
-<br>
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
 
 
 <div align="center">
@@ -90,6 +95,7 @@
 <br>
 </div>
 
+<br clear="both">
 <br clear="both">
 
 <div align="center">
