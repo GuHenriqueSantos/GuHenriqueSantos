@@ -104,6 +104,6 @@
 <br clear="both">
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22eyd6nmr5vv66x27cbrlqela) <img align="right" height="auto" width="53%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<img height="auto" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=22eyd6nmr5vv66x27cbrlqela"> <img align="right" height="auto" width="53%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF&section=footer">
