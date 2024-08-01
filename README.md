@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=018c14">
 
 <br clear="both">
+<br clear="both">
+<br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=40E0D0&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Gustavo;Sou+um+Desenvolvedor+de+Software;Bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=018c14&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Gustavo;Sou+um+Desenvolvedor+de+Software;Bem+vindo!)](https://git.io/typing-svg)
 
 <br clear="both">
 <br clear="both">
@@ -27,7 +29,7 @@
 
 <div align="center">
   
-   <img width="100%" height="350px" src="https://github-readme-streak-stats.herokuapp.com?user=GuHenriqueSantos&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=00FFFF&fire=008B8B&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&)](https://git.io/streak-stats&dates=20B2AA">
+   <img width="100%" height="350px" src="https://github-readme-streak-stats.herokuapp.com?user=GuHenriqueSantos&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=018c14&fire=07db23&currStreakNum=018c14&sideNums=018c14&currStreakLabel=018c14&sideLabels=018c14&)](https://git.io/streak-stats&dates=018c14">
   
 </div>
 
@@ -79,7 +81,7 @@
 <div align="center">
 <p align="centre"><b>Contador de visitas</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=GuHenriqueSantos&s=40&c=7fffd4&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=GuHenriqueSantos&s=40&c=018c14&bg=00000000&no=3&ff=digi&tb=Visitas%3A+&ta=" /></p> 
 <br>
 </div>
 
@@ -100,4 +102,4 @@
 
 <img height="auto" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=22eyd6nmr5vv66x27cbrlqela"> <img align="right" height="auto" width="53%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFFF&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=018c14&section=footer">
