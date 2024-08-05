@@ -25,7 +25,7 @@
 
 <div align="center">
   
-   <img width="100%" height="350px" src="https://github-readme-streak-stats.herokuapp.com?user=GuHenriqueSantos&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=337d53&fire=68acae&currStreakNum=337d53&sideNums=337d53&currStreakLabel=337d53&sideLabels=337d53&)](https://git.io/streak-stats&dates=337d53">
+   <img width="100%" height="350px" src="https://github-readme-streak-stats.herokuapp.com?user=GuHenriqueSantos&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&ring=337d53&fire=A0937D&currStreakNum=337d53&sideNums=337d53&currStreakLabel=337d53&sideLabels=337d53&)](https://git.io/streak-stats&dates=337d53">
   
 </div>
 
@@ -98,4 +98,4 @@
 
 <img height="auto" width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=22eyd6nmr5vv66x27cbrlqela"> <img align="right" height="auto" width="53%" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=018c14&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=337d53&section=footer">
